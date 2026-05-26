@@ -1,0 +1,17 @@
+{
+  "name": "Dump2Done",
+  "short_name": "Dump2Done",
+  "description": "A local-first AI productivity bestie.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffbe8",
+  "theme_color": "#dff7c7",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
